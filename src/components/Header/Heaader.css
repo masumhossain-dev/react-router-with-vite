@@ -1,0 +1,23 @@
+.nav-body {
+    background-color: rgb(214, 214, 214);
+    min-width: 1920px;
+    margin-bottom: 20px;
+}
+
+.navbar {
+    text-align: center;
+    font-size: 1.5rem;
+    height: 50px;
+    padding-top: 8px;
+}
+
+.navbar a {
+    margin: 0px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.navbar a:hover {
+    color: blueviolet;
+}
